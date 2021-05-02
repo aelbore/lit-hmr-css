@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "outDir": "dist",
+    "target": "es2015",
+    "moduleResolution": "node"
+  }
+}

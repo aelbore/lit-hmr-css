@@ -1,0 +1,31 @@
+{
+  "name": "lit-hmr-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "wds"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelbore/lit-hmr-css.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelbore/lit-hmr-css/issues"
+  },
+  "homepage": "https://github.com/aelbore/lit-hmr-css#readme",
+  "devDependencies": {
+    "@babel/plugin-syntax-class-properties": "^7.12.13",
+    "@open-wc/dev-server-hmr": "^0.1.1",
+    "@web/dev-server": "^0.1.17",
+    "@web/dev-server-esbuild": "^0.2.12",
+    "@web/dev-server-rollup": "^0.3.3",
+    "rollup-plugin-lit-css": "^2.1.0"
+  },
+  "dependencies": {
+    "lit-element": "^2.5.0"
+  }
+}
